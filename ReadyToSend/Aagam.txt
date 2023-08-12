@@ -1,0 +1,16 @@
+Dear Professor Aagam,
+
+I hope this email finds you well. My name is Aagam Shah, and I am thrilled to be joining UT Dallas as a freshman this coming semester. With a passion for coding cultivated over the past two years, I've embarked on a journey of self-taught Python development, complemented by two internships and various projects.
+
+Currently, I'm delving into the exciting realms of web development. The prospect of combining my coding skills with academic research greatly interests me.
+
+I believe my experiences and enthusiasm align well with potential research assistance opportunities within your team. I have attached my GitHub profile and resume for your perusal.
+
+I'd greatly appreciate the chance to discuss any potential openings or ways I could contribute to your research. If possible, could we schedule a brief meeting? I'm eager to learn more about your ongoing projects and explore avenues for collaboration.
+
+Thank you for considering my request. I look forward to the possibility of connecting and learning from your expertise.
+
+PS: I am using my email bot and data entry automation tools to write this email. I scraped your information from https://cs.utdallas.edu/people/faculty/ and then fed the information in a google form. Feel free to explore my work in my GitHub.
+
+Best regards,
+Aagam Shah

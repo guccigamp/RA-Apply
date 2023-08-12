@@ -1,0 +1,14 @@
+{
+    "headers": [{
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8"
+        }
+    ],
+    "google_form": "https://forms.gle/sEHK4yvnSipryzdU7",
+    "email": "sample@example.com",
+    "app_password": "app_password",
+    "host": "",
+    "port": "",
+    "local_hostname": ""
+
+}
